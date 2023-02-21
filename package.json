@@ -1,0 +1,8 @@
+{
+  "name": "encjh2--run",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "rxjs": "7.8.0"
+  }
+}
